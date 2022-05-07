@@ -41,5 +41,5 @@ Screenshot of Modified Site:
 <br>
 <br>
 
-![_C__Users_Guap_Desktop_GitHub_Homework%20Folder_Week%205%20Assignment_day-planner_index html](https://user-images.githubusercontent.com/102185104/167275283-ce3b01af-39c8-4763-8136-7aa85dae8e8d.png)
+![_C__Users_Guap_Desktop_GitHub_Homework%20Folder_Week%205%20Assignment_day-planner_index html (1)](https://user-images.githubusercontent.com/102185104/167275317-3c4e0e9b-519c-414d-bfde-1866d769bd00.png)
 

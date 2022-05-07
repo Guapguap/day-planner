@@ -31,7 +31,7 @@ Below is the link to my website and a screenshot of my website to preview it bef
 
 <br>
 
-Link to Password Generator: <a href="https://guapguap.github.io/password-generator/" target="_blank">https://guapguap.github.io/password-generator/</a>
+Link to Day Planner: <a href="https://guapguap.github.io/day-planner/" target="_blank">https://guapguap.github.io/day-planner/</a>
 
 <br>
 <br>
